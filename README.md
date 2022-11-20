@@ -17,7 +17,8 @@ Steps to execute the training model:
     valDFPath = path to save the validation dataframe
 6.	The execute cells one by one. 
 
-____________________________________________________________________________________________________________________________________________________________________## PrivacyInterpreterM.ipynb : PolicyInterpreter scrapes the privacy policy from a given URL and then according to the user type selected classifies the policy into privacy categories and then using cosine similarity selects similar sentences to form a summary.
+__________________________________________________________________________________________________________________________________________________________________
+## PrivacyInterpreterM.ipynb : PolicyInterpreter scrapes the privacy policy from a given URL and then according to the user type selected classifies the policy into privacy categories and then using cosine similarity selects similar sentences to form a summary.
 
 Steps to execute the proof-of-concept model
 1.	Download “PolicyInterpreterM.ipynb” (notebook2), the configuration files present in the “Model_Configuration” folder.
